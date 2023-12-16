@@ -1,0 +1,92 @@
+[
+  {
+    "response_type": "saudacoes",
+    "user_input": ["ola", "oi", "opa", "ajuda", "bom", "boa"],
+    "bot_response": "Oi! Como posso te ajudar?",
+    "required_words": []
+  },
+  {
+    "response_type": "sobre",
+    "user_input": ["sobre", "saber", "historia", "Sabesp"],
+    "bot_response": "Para saber mais sobre a Sabesp, clique aqui: SOBRE A SABESP",
+    "required_words": ["sobre"]
+  },
+  {
+    "response_type": "conta",
+    "user_input": ["parcelar", "conta"],
+    "bot_response": "Para parcelar suas contas, clique aqui: PARCELAR CONTAS",
+    "required_words": ["parcelar"]
+  },
+  {
+    "response_type": "conta",
+    "user_input": ["sabesp", "facil", "acessar", "usar"],
+    "bot_response": "Para usar o SABESP Facil, clique aqui: SABESP FACIL",
+    "required_words": []
+  },
+  {
+    "response_type": "conta",
+    "user_input": ["segunda", "2a", "via", "conta", "imprimir", "baixar"],
+    "bot_response": "Para segunda via da conta, clique aqui: SEGUNDA VIA",
+    "required_words": ["via"]
+  },
+  {
+    "response_type": "conta",
+    "user_input": ["conta", "contas", "parcela", "pagar", "pagamento", "acertar"],
+    "bot_response": "Para pagar suas contas, clique aqui: PAGAR CONTAS",
+    "required_words": []
+  },
+  {
+    "response_type": "ajuda",
+    "user_input": ["agua", "vazamento", "vazando", "vazou", "encanamento", "cano", "rede", "quebrado", "quebrou"],
+    "bot_response": "Para vazamento de agua, clique aqui: VAZAMENTO DE AGUA",
+    "required_words": []
+  },
+  {
+    "response_type": "ajuda",
+    "user_input": ["cano", "esgoto", "entupido"],
+    "bot_response": "Para cano entupido, clique aqui: CANO/ESGOTO ENTUPIDO",
+    "required_words": []
+  },
+  {
+    "response_type": "ajuda",
+    "user_input": ["sem", "agua", "falta", "faltando"],
+    "bot_response": "Para falta de agua, clique aqui: ESTOU SEM AGUA",
+    "required_words": []
+  },
+  {
+    "response_type": "ajuda",
+    "user_input": ["agua", "suja", "ruim", "fedida", "estranha", "qualidade", "baixa"],
+    "bot_response": "Para baixa qualidade de agua, clique aqui: QUALIDADE DA AGUA",
+    "required_words": []
+  },
+  {
+    "response_type": "servicos",
+    "user_input": ["servicos", "servico", "funcionarios", "funcionario"],
+    "bot_response": "Para solicitar algum servico, clique aqui: SERVICOS",
+    "required_words": []
+  },
+  {
+    "response_type": "produtos",
+    "user_input": ["comprar", "produto", "produtos"],
+    "bot_response": "Para comprar algum produto, clique aqui: PRODUTOS",
+    "required_words": []
+  },
+  {
+    "response_type": "contato",
+    "user_input": ["informacao", "informacoes", "contato", "email", "telefone", "falar", "pessoa"],
+    "bot_response": "Contate-nos:\nEmail: contato@sabesp.com.br\nTelefone: 0800 055 0195\nWhatsapp: (11) 3388-8000",
+    "required_words": []
+  },
+  {
+    "response_type": "agradecimento",
+    "user_input": ["obrigado", "valeu", "ajudou"],
+    "bot_response": "De nada! Fico feliz em ajudar.",
+    "required_words": []
+  },
+  {
+    "response_type": "despedida",
+    "user_input": ["tchau", "ate"],
+    "bot_response": "Ate mais! Qualquer coisa e so me chamar.",
+    "required_words": []
+  }
+]
