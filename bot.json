@@ -43,7 +43,7 @@
   },
   {
     "response_type": "ajuda",
-    "user_input": ["cano", "esgoto", "entupido"],
+    "user_input": ["cano", "esgoto", "entupido", "entupiu"],
     "bot_response": "Para cano entupido, clique aqui: CANO/ESGOTO ENTUPIDO",
     "required_words": []
   },
